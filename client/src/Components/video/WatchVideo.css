@@ -1,0 +1,22 @@
+.watch-video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000; /* Ensure the background is dark for video visibility */
+    color: white;  /* Make sure text is visible against the dark background */
+}
+
+.video-player {
+    width: 80%;
+    max-width: 800px;
+    margin-top: 20px;
+    background-color: #000;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}

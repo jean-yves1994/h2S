@@ -1,0 +1,47 @@
+.about-event-container {
+    text-align: center;
+    padding: 40px;
+    background: #f9f9f9;
+  }
+  
+  /* Scoped styles for headings and paragraphs */
+  .about-event-container h1 {
+    color: #222;
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .about-event-container h2 {
+    color: #444;
+    font-size: 22px;
+    margin-top: 20px;
+  }
+  
+  .about-event-container p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .about-event-container .cta-text {
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  /* Button Styling */
+  .about-event-container .pay-button {
+    background: #ff5722;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .about-event-container .pay-button:hover {
+    background: #e64a19;
+  }
+  
